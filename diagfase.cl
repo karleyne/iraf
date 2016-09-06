@@ -6,6 +6,7 @@
 # o erro de um bin eh o desvio padrao dos pontos no bin (NAO eh o desvio padrao da media).
 #
 # Karleyne: modificado em 08/2008 para converter mag em fluxo para a opção binada
+# Karleyne: modificado em 08/2016 para somar o fluxo de referencia do zero para que o resultado seja em Jy.
 #
 ###################################################################
 procedure diagfase(arquivo)
